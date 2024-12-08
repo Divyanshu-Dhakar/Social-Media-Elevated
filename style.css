@@ -372,7 +372,7 @@ gap: 1rem;    }
     .header .navbar a {
       color: var(--black);
       margin: 0;
-      font-size: 2rem;
+      font-size: 1rem;
       margin: 2rem 0;
     }
   }
@@ -384,7 +384,12 @@ gap: 1rem;    }
   }
   
 
-
+  @media screen and (max-width: 300px) {
+	.home{
+        height: 100vh;
+        width: auto;
+   zoom: 0%;
+    }
 
 
 
