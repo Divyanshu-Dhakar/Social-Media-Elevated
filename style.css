@@ -32,6 +32,19 @@ html{
 section{
     padding: 5rem 9%;
 }
+.btn1{
+    color: var(--light-color);
+    font-weight: 400;
+    font-size: 1.7rem;
+    border: 0.1rem solid var(--light-color);
+    border-radius: 10rem;
+    padding: 1.5rem 4rem;
+}
+.btn1:hover{
+    background: var(--blue);
+    color: var(--white);
+    border: 0.1rem solid var(--white);
+}
 .btn{
     color: var(--white);
     font-weight: 400;
@@ -268,6 +281,7 @@ section{
 }
 .footer{
     text-align: center;
+    background: var(--light-bg);
 }
 .footer .logo{
     font-size: 2rem;
