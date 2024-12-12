@@ -399,16 +399,10 @@ gap: 1rem;    }
   @media (max-width: 400px) {
 
 .home{
-    height: 75vh;
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('images/hero.webp') no-repeat;
-    background-size:55%;
+    background-size:75vh auto;
     background-position: center;
-    background-attachment: fixed;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-flow: column;
-    text-align: center;
+
 }
   }
 
