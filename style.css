@@ -396,10 +396,9 @@ gap: 1rem;    }
       font-size: 55%;
     }
     .home{
-        height: auto;
-        width: auto;
+     
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('images/hero.webp') no-repeat;
-    background-size:auto;
+    background-size: auto 100vh;
     background-position: center;
     background-attachment: fixed;
     display: flex;
