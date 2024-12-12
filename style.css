@@ -400,7 +400,7 @@ gap: 1rem;    }
 
 .home{
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('images/hero.webp') no-repeat;
-    background-size:75vh auto;
+    background-size:auto auto;
     background-position: center;
 
 }
