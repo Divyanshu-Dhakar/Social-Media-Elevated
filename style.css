@@ -398,12 +398,7 @@ gap: 1rem;    }
   }
   
 
-  @media screen and (max-width: 300px) {
-	.home{
-        height: 100vh;
-        width: auto;
-   zoom: 0%;
-    }}
+ 
 
 
 
