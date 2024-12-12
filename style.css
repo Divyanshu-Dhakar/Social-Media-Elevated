@@ -395,6 +395,19 @@ gap: 1rem;    }
     html {
       font-size: 55%;
     }
+    .home{
+        height: auto;
+        width: auto;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('images/hero.webp') no-repeat;
+    background-size:auto;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    text-align: center;
+    }
   }
   
 
