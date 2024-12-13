@@ -66,7 +66,7 @@ section{
 }
 .home{
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('images/heroimg.jpg') no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('images/heroimg.webp') no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -400,7 +400,7 @@ gap: 1rem;    }
   @media (max-width: 400px) {
 
     .home{
-        background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('images/heroimg.jpg') no-repeat;
+        background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('images/heroimg.webp') no-repeat;
         background-size:auto auto;
         background-position: center;
     
